@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://koushik-017.github.io/csb-dunrp7/static/css/main.01821275.css",
+    "main.js": "https://koushik-017.github.io/csb-dunrp7/static/js/main.36a18056.js",
+    "index.html": "https://koushik-017.github.io/csb-dunrp7/index.html",
+    "main.01821275.css.map": "https://koushik-017.github.io/csb-dunrp7/static/css/main.01821275.css.map",
+    "main.36a18056.js.map": "https://koushik-017.github.io/csb-dunrp7/static/js/main.36a18056.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01821275.css",
+    "static/js/main.36a18056.js"
+  ]
+}
